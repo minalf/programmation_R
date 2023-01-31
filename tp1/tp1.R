@@ -6,3 +6,5 @@ brutToNET <- function(brut) {
   net <- brut - cotisations
   return(net)
 }      
+
+ggg
