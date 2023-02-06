@@ -25,3 +25,4 @@ summary(object = pokemon)
 
 #EXERCICE 2
 
+mean(pokemon$weight_kg, na.rm = TRUE)
