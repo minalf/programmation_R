@@ -19,3 +19,4 @@ length(levels(pokemon$generation))
 length(levels(pokemon$is_legendary))
 length(levels(pokemon$type))
 
+summary(object = pokemon)
