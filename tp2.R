@@ -1,5 +1,7 @@
 readxl(pokemon.xlsx)
 
+#EXERCICE 1
+
 dim(x = pokemon)
 
 colnames(x = pokemon)
@@ -20,3 +22,6 @@ length(levels(pokemon$is_legendary))
 length(levels(pokemon$type))
 
 summary(object = pokemon)
+
+#EXERCICE 2
+
